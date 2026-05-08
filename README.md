@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Asegúrate de que la ruta coincida con el nombre de tu imagen -->
-  <img src="https://raw.githubusercontent.com/Staillim/Staillim/main/banner.png" width="100%" alt="Staillim Banner" />
+  <img src="[https://raw.githubusercontent.com/Staillim/Staillim/main/banner.png](https://github.com/Staillim/Staillim/blob/main/github_profile_banner_1778205266426.jpg)" width="100%" alt="Staillim Banner" />
   
   <h1>Hey there! I'm Staillim 👋</h1>
   
