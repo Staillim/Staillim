@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Hey there! I'm Staillim 👋</h1>
   <p><strong>Software Developer · AI Enthusiast · Creative Tech Explorer</strong></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=550&lines=Building+modern+web+apps;Exploring+the+future+of+AI;Crafting+Minecraft+ecosystems;Kotlin+%26+TypeScript+Lover;Automating+everything+possible" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=550&lines=Building+modern+web+apps;Exploring+the+future+of+AI;Kotlin+%26+TypeScript+Lover;Automating+everything+possible;Full-Stack+Developer+in+progress" alt="Typing SVG" />
 </div>
 
 ---
@@ -16,7 +16,6 @@ Soy un desarrollador apasionado por crear soluciones digitales que combinen una 
 
 - 🔭 Actualmente trabajando en proyectos de **IA y Automatización**.
 - 🌱 Aprendiendo constantemente sobre **Full-Stack Development** (TypeScript, Supabase).
-- 🎮 Apasionado por el **desarrollo de servidores y plugins para Minecraft** con Kotlin.
 - 💬 Pregúntame sobre **TypeScript, Kotlin, Node.js o arquitecturas backend**.
 - ⚡ Fun fact: Me encanta optimizar flujos de trabajo — si algo se puede automatizar, lo automatizo.
 
@@ -57,7 +56,6 @@ Soy un desarrollador apasionado por crear soluciones digitales que combinen una 
 |----------|-------------|------|
 | 🌐 **[MyBiblioteca](https://github.com/Staillim/MyBiblioteca.github.oi)** | Plataforma web de catálogo multimedia con filtros por categoría, búsqueda en tiempo real y reproductor integrado | HTML · CSS · JavaScript |
 | 🤖 **IA & Automatización** *(en desarrollo)* | Explorando herramientas de automatización inteligente de flujos de trabajo | TypeScript · Python |
-| 🎮 **Minecraft Dev** *(privado)* | Desarrollo de plugins y ecosistemas para servidores de Minecraft | Kotlin |
 
 ---
 
@@ -83,7 +81,6 @@ Soy un desarrollador apasionado por crear soluciones digitales que combinen una 
 ```text
 🔨 Construyendo    ██████████░░░░░░░░░░   50% → Proyectos de IA & Automatización
 📚 Aprendiendo     ████████░░░░░░░░░░░░   40% → Full-Stack (TypeScript + Supabase)
-🎮 Explorando      ██████░░░░░░░░░░░░░░   30% → Minecraft Plugin Dev con Kotlin
 ⚡ Optimizando     ████████████░░░░░░░░   60% → Flujos de trabajo y productividad
 ```
 
